@@ -24,3 +24,8 @@ Future Enhancements with Machine Learning(already working on it):
 ⚪ Sales trend analysis to optimize menu or inventory
 ⚪ Anomaly detection for unusual ordering patterns or system faults
 ⚪ User behavior analytics to improve UX and optimize menu layout
+![Screenshot 2025-04-30 012828](https://github.com/user-attachments/assets/817e662b-02da-4a6d-a8a4-4c2ea8dfedb8)
+![Screenshot 2025-04-30 012421](https://github.com/user-attachments/assets/4163077f-2e41-4037-a3ea-f29d01bd2f2c)
+![Screenshot 2025-04-30 012352](https://github.com/user-attachments/assets/0e0277c0-89f3-46a1-8541-25a686d3ae67)
+
+
